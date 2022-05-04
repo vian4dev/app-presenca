@@ -5,6 +5,11 @@ Aplicativo desenvolvido na aula de ReactJS da _Trilha Especializar_ da Rocketsea
 
 ## Demostração
 
+<div align="center">
+  <img src="https://i.ibb.co/9434Mps/app-react-presenca.png" alt="app-react-presenca" border="0">
+</div>
+
+
 
 ## Instalação
 Clone o repositório
