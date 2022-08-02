@@ -6,17 +6,17 @@ Aplicativo desenvolvido na aula de ReactJS da _Trilha Especializar_ da Rocketsea
 ## Demostração
 Apresentação da tela do aplicativo.
 <div align="center">
-  <img src="https://i.ibb.co/9434Mps/app-react-presenca.png" alt="app-react-presenca" border="0">
+  <img src="https://i.ibb.co/9434Mps/app-react-presenca.png" alt="App Presença" border="0">
 </div>
 
 ## Instalação
 Clone o repositório.
 ~~~
-git clone https://github.com/vian4dev/react-app-presenca.git
+git clone https://github.com/vian4dev/app-presenca.git
 ~~~
 Acesse o diretório do projeto.
 ~~~
-cd react-app-presenca
+cd app-presenca
 ~~~
 Instale as dependências.
 ~~~
