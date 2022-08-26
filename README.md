@@ -10,6 +10,8 @@ Apresentação da tela do aplicativo.
 </div>
 
 ## Instalação
+
+## Instalação
 Clone o repositório.
 ~~~
 git clone https://github.com/vian4dev/app-presenca.git
