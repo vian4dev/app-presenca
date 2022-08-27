@@ -9,7 +9,8 @@ Apresentação da tela do aplicativo.
   <img src="https://i.ibb.co/9434Mps/app-react-presenca.png" alt="App Presença" border="0">
 </div>
 
-## Instalação
+## Tecnologias utilizadas
+
 
 ## Instalação
 Clone o repositório.
