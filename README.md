@@ -4,9 +4,14 @@
 Aplicativo desenvolvido na aula de ReactJS da _Trilha Especializar_ da Rocketseat, o intuito dessa aplicação e aprender os fundamentos do ReactJS.
 
 ## Tecnologias utilizadas
-* HTML
-* CSS
-* ReactJS
+<div style="display: inline_block"><br>
+  <img align="center" alt="img-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
+  <img align="center" alt="img-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+
+  <img align="center" alt="img-webpack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg">
+  
+</div>
 
 ## Demostração
 Apresentação da tela do aplicativo.
