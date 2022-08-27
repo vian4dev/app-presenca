@@ -11,7 +11,7 @@ Aplicativo desenvolvido na aula de ReactJS da _Trilha Especializar_ da Rocketsea
   
   <img align="center" alt="img-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 
-  <img align="center" alt="img-webpack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg">
+  <img align="center" alt="img-webpack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
 </div>
 
