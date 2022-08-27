@@ -3,14 +3,16 @@
 ## Descrição
 Aplicativo desenvolvido na aula de ReactJS da _Trilha Especializar_ da Rocketseat, o intuito dessa aplicação e aprender os fundamentos do ReactJS.
 
+## Tecnologias utilizadas
+* HTML
+* CSS
+* ReactJS
+
 ## Demostração
 Apresentação da tela do aplicativo.
 <div align="center">
   <img src="https://i.ibb.co/9434Mps/app-react-presenca.png" alt="App Presença" border="0">
 </div>
-
-## Tecnologias utilizadas
-
 
 ## Instalação
 Clone o repositório.
