@@ -1,7 +1,7 @@
 # Controle de presença
 
 ## Descrição
-Aplicativo desenvolvido na aula de ReactJS da _Trilha Especializar_ da Rocketseat, o intuito dessa aplicação e aprender os fundamentos do ReactJS.
+Aplicativo desenvolvido na aula de ReactJS da _Trilha Especializar_ da Rocketseat, o intuito dessa aplicação e aprender os fundamentos do ReactJS. O objetivo desse aplicativo e gravar em uma lista os nomes é o horário das pessoas presentes.
 
 ## Tecnologias utilizadas
 <div style="display: inline_block"><br>
