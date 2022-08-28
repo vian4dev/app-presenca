@@ -18,7 +18,7 @@ Aplicativo desenvolvido na aula de ReactJS da _Trilha Especializar_ da Rocketsea
 ## Demostração
 Apresentação da tela do aplicativo.
 <div align="center">
-  <img src="https://i.ibb.co/9434Mps/app-react-presenca.png" alt="App Presença" border="0">
+  <img src="https://i.ibb.co/tmZ24YD/app-presenca.png" alt="app-presenca" border="0">
 </div>
 
 ## Instalação
