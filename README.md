@@ -1,4 +1,4 @@
-# App de controle de presença
+# Controle de presença
 
 ## Descrição
 Aplicativo desenvolvido na aula de ReactJS da _Trilha Especializar_ da Rocketseat, o intuito dessa aplicação e aprender os fundamentos do ReactJS.
