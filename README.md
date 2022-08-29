@@ -1,9 +1,9 @@
 # Controle de presença
 
-## Descrição
+## ✒️ Descrição
 Aplicativo desenvolvido na aula de React da _Trilha Especializar_ da Rocketseat, o intuito dessa aplicação e aprender os fundamentos do ReactJS. O objetivo desse aplicativo e gravar em uma lista os nomes é o horário das pessoas presentes.
 
-## Tecnologias utilizadas
+## 💻 Tecnologias utilizadas
 <div style="display: inline_block"><br>
   <img align="center" alt="img-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
@@ -15,13 +15,13 @@ Aplicativo desenvolvido na aula de React da _Trilha Especializar_ da Rocketseat,
   
 </div>
 
-## Demostração
+## 📷 Demostração
 Apresentação da tela do aplicativo.
 <div align="center">
   <img src="https://i.ibb.co/tmZ24YD/app-presenca.png" alt="app-presenca" border="0">
 </div>
 
-## Instalação
+## ⚙️ Instalação
 Clone o repositório.
 ~~~
 git clone https://github.com/vian4dev/app-presenca.git
