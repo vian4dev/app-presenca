@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://www.rocketseat.com.br/assets/logos/discover-reduced.svg" width="200" height="200" alt="Discover">
+</div>
+
 # Controle de presença
 
 ## ✒️ Descrição
