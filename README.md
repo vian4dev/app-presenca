@@ -51,7 +51,7 @@ git clone https://github.com/vian4dev/app-presenca.git
 ~~~
 Acesse o diretório do projeto.
 ~~~
-cd app-presenca
+cd app-presenca/
 ~~~
 Instale as dependências.
 ~~~
