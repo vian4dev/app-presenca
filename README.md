@@ -44,7 +44,7 @@ Apresentação da tela do aplicativo.
   <img src="https://i.ibb.co/tmZ24YD/app-presenca.png" alt="app-presenca" border="0">
 </div>
 
-## ⚙️ Instalação
+## 🔥 Instalação
 Clone o repositório.
 ~~~
 git clone https://github.com/vian4dev/app-presenca.git
