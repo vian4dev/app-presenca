@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <img src="https://www.rocketseat.com.br/assets/logos/discover-reduced.svg" width="200" height="200" alt="Discover">
+  <img src="https://raw.githubusercontent.com/vian4dev/vian4dev/bfae0da7d97ab8f10a008d3fdea6f2e2181fa3ca/.github/rocketseat.svg" width="250" height="250" alt="Rocketseat">
 </div>
 
 # Controle de presença
